@@ -23,3 +23,6 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (3,3) in the matrix (stick switch push) and plug in the keyboard
 * **Physical reset button**: Remove the top contoller cover. Hold the BOOT button and press the RESET button on the micro contoller board.
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+This keyboard project is licensed under CC0.
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
