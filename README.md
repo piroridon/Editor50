@@ -4,7 +4,6 @@
 
 * Keyboard Maintainer: [piroridon](https://github.com/piroridon)
 * Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
